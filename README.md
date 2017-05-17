@@ -26,6 +26,9 @@ Android开发中好的技术大牛的github地址总结 全是优秀的项目
      视频查看，使用IjkPlayer播放视频，DanmakuFlameMaster播放弹幕，自动拼接多段视频（使用concat协议）
      视频离线缓存
      
+     架构基于MVVM模式，使用DataBinding + RxJava2 + Dagger2 + Retrofit实现
+     
+     
      使用到的开源项目：
      Kotlin
      RxJava
