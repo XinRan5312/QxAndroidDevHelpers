@@ -28,7 +28,6 @@ Android开发中好的技术大牛的github地址总结 全是优秀的项目
      
      架构基于MVVM模式，使用DataBinding + RxJava2 + Dagger2 + Retrofit实现
      
-     
      使用到的开源项目：
      Kotlin
      RxJava
@@ -84,3 +83,5 @@ Android开发中好的技术大牛的github地址总结 全是优秀的项目
       
       6.linkagescroll：实现viewPager、recyclerView、顶部banner滑动、tab的停靠和特效，下拉刷新等的多级联动效果，recyclerView可以穿过顶部停靠的tab，自带上拉加载更多等
      
+     
+6.十二大最著名的Android播放器开源项目：http://mp.weixin.qq.com/s/91ZP6wpnbH9eOYnHm1WRdw
