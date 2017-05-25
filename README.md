@@ -87,7 +87,7 @@ Android开发中好的技术大牛的github地址总结 全是优秀的项目
 6.十二大最著名的Android播放器开源项目：http://mp.weixin.qq.com/s/91ZP6wpnbH9eOYnHm1WRdw
 
 
-7.https://github.com/cangwang  ：我习惯性的喜欢叫他苍狼，一个很牛的大神，全栈大神
+7.https://github.com/cangwang  ：我习惯性的喜欢叫他苍狼，一个很牛的大神，全栈大神http://www.jianshu.com/u/cd0fe10b01d2
 
 
        1，ModuleBus：Module Bus is use for diffent modules communication.类似于EventBus
