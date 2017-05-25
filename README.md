@@ -85,3 +85,15 @@ Android开发中好的技术大牛的github地址总结 全是优秀的项目
      
      
 6.十二大最著名的Android播放器开源项目：http://mp.weixin.qq.com/s/91ZP6wpnbH9eOYnHm1WRdw
+
+
+7.https://github.com/cangwang  ：我习惯性的喜欢叫他苍狼，一个很牛的大神，全栈大神
+
+
+       1，ModuleBus：Module Bus is use for diffent modules communication.类似于EventBus
+       
+       2，Gank：组件化Gank实例是http://gank.io 提供的开源接口为基础作为编写。提供广告，新闻，设置，提交，资料浏览页等作为模块，兼容Kotlin
+
+       3，DBFMwatch：apple watch版豆瓣播放器 by kele Swift
+       
+       4，weixin：类似微信Xmpp 通信协议 by kele Objective-C
