@@ -98,4 +98,4 @@ Android开发中好的技术大牛的github地址总结 全是优秀的项目
        
        4，weixin：类似微信Xmpp 通信协议 by kele Objective-C
        
-8.https://github.com/alibaba/ 阿里开源又1个神作，ARouter：页面路由管理器
+8.https://github.com/alibaba/ 阿里开源又1个神作，ARouter：页面路由管理器http://blog.csdn.net/ddwhan0123/article/details/54409574
