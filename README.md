@@ -1,4 +1,6 @@
 # QxAndroidDevHelpers
+#基于高德地图的租车APP以及各种关于导航的APP的demo：https://github.com/amap-demo/  ：https://github.com/amap-demo/android-trip
+
 Android开发中好的技术大牛的github地址总结 全是优秀的项目：比如https://github.com/cangwang/Gank 集成了Retrfit，rxjava ，Arouter，eventBus，glide，提供广告，新闻，设置，提交，资料浏览页等作为模块。
 
 1：LiuShilin：https://github.com/nanchen2251/  
