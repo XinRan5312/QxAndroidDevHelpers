@@ -101,3 +101,18 @@ Android开发中好的技术大牛的github地址总结 全是优秀的项目：
        4，weixin：类似微信Xmpp 通信协议 by kele Objective-C
        
 8.https://github.com/alibaba/ 阿里开源又1个神作，ARouter：页面路由管理器http://blog.csdn.net/ddwhan0123/article/details/54409574
+
+9.https://github.com/zybieku :Android开发过程中的小工具
+
+     1， SoftKeyboardUtil：一行代码实现Android软键盘和EditText各种交互
+
+     2，ZbarCode：用Zbar库实现的Android扫一扫
+
+     3，BackStageNotificationDemo-HOME-：Android中按HOME键进入后台,点击通知进入Home键之前的页面
+
+     4，Logger：基于Logger日志框架,增加了文件缓存,和打印map等功能
+
+     5，MVPframe：Forked from CarlLu/MVPframe 基于Dagger2+Rxjava+Retrofit+MVP
+
+     6，SlideActivity：Forked from chenjishi/SlideActivity  ，A iOS like slide back Activity framework.
+
