@@ -115,4 +115,18 @@ Android开发中好的技术大牛的github地址总结 全是优秀的项目：
      5，MVPframe：Forked from CarlLu/MVPframe 基于Dagger2+Rxjava+Retrofit+MVP
 
      6，SlideActivity：Forked from chenjishi/SlideActivity  ，A iOS like slide back Activity framework.
+     
+10.https://github.com/shaohui10086/
+     
+    1.AdvancedLuban:An Advanced Compress Image Library for Android / 高效、简洁的图片压缩工具库
+
+    2.ShareUtil:社会化登录分享工具库
+
+    3.BottomDialog:BottomDialog is a bottom dialog layout implemented with DialogFragment, Supports pop-up animation, Support any layout
+
+    4.VistaReyclerView:One approve drop-down refresh and bottom load more lightweight RecyclerView
+
+ 
+
+    
 
