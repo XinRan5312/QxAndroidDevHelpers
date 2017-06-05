@@ -136,6 +136,10 @@ Android开发中好的技术大牛的github地址总结 全是优秀的项目：
 
     3.wx-app-api-demo:基于微信小程序官方教程的代码示例
 
+12.https://github.com/RickyLee28/
 
+    1.Living：使用IJKplayer实现直播
+    
+    2.SimplifyReader： 一款基于Google Material Design设计开发的Android客户端，包括新闻简读，图片浏览，视频爽看 ，音乐轻听以及二维码扫描五个子模块。项目采取的是MVP架构开发，由于还是摸索阶段，可能不是很规范。但基本上应该是这么个套路，至少我个人认为是这样的~恩，就是这样的！
     
 
