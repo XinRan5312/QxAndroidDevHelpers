@@ -1,4 +1,21 @@
 # QxAndroidDevHelpers
+#https://github.com/Bilibili/ 一个最有良心的小公司 开源了N个很实用的工具和框架：尤其是你如果是进行直播或者是视频开发 这绝对是个很好的参考
+
+    ijkplayer：Android/iOS video player based on FFmpeg n3.3, with MediaCodec, VideoToolbox support.
+     
+    flv.js：HTML5 FLV Player
+
+    DanmakuFlameMaster：Android开源弹幕引擎·烈焰弹幕使 ～
+    
+    apk-channelization：[不支持v2签名]Android多渠道输出脚本
+
+    FFmpeg：Forked from FFmpeg/FFmpeg：git://git.videolan.org/ffmpeg.git
+
+    BiliShare：支持分享到微博、QQ聊天、QQ空间、微信聊天、微信朋友圈，系统分享等。
+
+    jni4android：JNI Generater for Android
+    
+    
 #基于高德地图的租车APP以及各种关于导航的APP的demo：https://github.com/amap-demo/  ：https://github.com/amap-demo/android-trip
 
 Android开发中好的技术大牛的github地址总结 全是优秀的项目：比如https://github.com/cangwang/Gank 集成了Retrfit，rxjava ，Arouter，eventBus，glide，提供广告，新闻，设置，提交，资料浏览页等作为模块。
