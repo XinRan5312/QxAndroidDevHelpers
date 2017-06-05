@@ -127,6 +127,15 @@ Android开发中好的技术大牛的github地址总结 全是优秀的项目：
     4.VistaReyclerView:One approve drop-down refresh and bottom load more lightweight RecyclerView
 
  
+11.https://github.com/tough1985/
+
+    
+    1.RxjavaRetrofitDemo:A demo show how to use Retrofit with Rxjava
+
+    2.XibaVideoPlayer:基于IjkVideoPlayer封装的一个视频播放控件
+
+    3.wx-app-api-demo:基于微信小程序官方教程的代码示例
+
 
     
 
