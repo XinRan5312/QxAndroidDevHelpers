@@ -16,6 +16,24 @@
     jni4android：JNI Generater for Android
     
     
+#模块化开发大神杰作：https://mp.weixin.qq.com/s?__biz=MzI3MDE0NzYwNA==&mid=2651435699&idx=1&sn=5e178b93e55f93d5981b294b519bb514&chksm=f1289bc8c65f12de20b5c3e0ccb3e2f8dd08e84078037a518a7afa2dea6dadc22e30804c06c0&mpshare=1&scene=1&srcid=0614xerkfiKMhynLrRL2s2Gh#rd
+
+github地址：https://github.com/BaronZ88/
+ 
+    1. MinimalistWeather：Android 平台开源天气 App，采用 MVP、RxJava、Retrofit2、OKHttp3、Dagger2、RetroLambda 等开源库来实现。
+
+    2.ModularizationProject：Android 模块化开发示例项目
+
+    3.Router：Android 平台一个简单的路由框架，包含路由和参数注入两部分功能。
+
+    4.WebViewSample：WebView填坑
+
+    5.Blog：知乎专栏中的文章
+    
+    6.Retrofit2-FastJson-Converter：为 Retrofit2 提供的 FastJson 解析器 (FastJsonConverter) ，弥补了官方缺少对 FastJson 支持的问题。
+
+    
+    
 #基于高德地图的租车APP以及各种关于导航的APP的demo：https://github.com/amap-demo/  ：https://github.com/amap-demo/android-trip
 
 Android开发中好的技术大牛的github地址总结 全是优秀的项目：比如https://github.com/cangwang/Gank 集成了Retrfit，rxjava ，Arouter，eventBus，glide，提供广告，新闻，设置，提交，资料浏览页等作为模块。
